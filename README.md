@@ -17,7 +17,7 @@
 <h3 id="hi-there">Hi there 👋🎉</h3>
 <p>My name is <strong>Adriana
 
-</strong> and welcome to my profile.</p>
+</strong> Welcome to my profile.</p>
 
 <p>I am about to graduate with a degree in Cybersecurity, with a strong passion for programming and digital security. Always eager to learn, grow, and take on new challenges in the tech world. I thrive on problem-solving and innovation, aiming to contribute my skills to meaningful projects while continuously expanding my knowledge.</p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dzZHR6dmxtMGkxc2Z0ZmduOGtzMHp4NjkzbzdjbXVwcWdtbG5zdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
