@@ -1,6 +1,6 @@
   <div align="center">
 <div id="header">
-<img src="./assets/img.png" width="100">
+<img src="./assets/img.png" width="250">
 </div>
 <div id="badges">
 <a href="https://www.linkedin.com/in/avreyesg/">
